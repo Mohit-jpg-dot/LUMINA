@@ -1,4 +1,4 @@
-# 🧠 PROJECT LUMINA – Offline AI Chatbot with LLaMA 3 & Mistral
+# LUMINA – Offline AI Chatbot with LLaMA 3 & Mistral
 
 **LUMINA** is a fast, intelligent, and fully offline AI chatbot powered by open-source models like **LLaMA 3** and **Mistral**. Built for privacy and flexibility, it allows natural conversations without needing an internet connection — perfect for developers, students, or anyone who values control over their AI.
 
